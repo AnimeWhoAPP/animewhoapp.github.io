@@ -1,1 +1,0 @@
-# animewho site tanıtım.

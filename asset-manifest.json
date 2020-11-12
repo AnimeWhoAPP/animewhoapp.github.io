@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44538b14.chunk.css",
+    "main.js": "/static/js/main.e357443a.chunk.js",
+    "main.js.map": "/static/js/main.e357443a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0330c2bf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0330c2bf.js.map",
+    "static/js/2.3946ee7c.chunk.js": "/static/js/2.3946ee7c.chunk.js",
+    "static/js/2.3946ee7c.chunk.js.map": "/static/js/2.3946ee7c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.898aa80e561b4b07af58036d66ea0429.js": "/precache-manifest.898aa80e561b4b07af58036d66ea0429.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.44538b14.chunk.css.map": "/static/css/main.44538b14.chunk.css.map",
+    "static/js/2.3946ee7c.chunk.js.LICENSE.txt": "/static/js/2.3946ee7c.chunk.js.LICENSE.txt",
+    "static/media/Ayarlar.png": "/static/media/Ayarlar.eaed74f5.png",
+    "static/media/Destek.gif": "/static/media/Destek.694bc8d1.gif",
+    "static/media/Destek2.gif": "/static/media/Destek2.3028aacb.gif",
+    "static/media/DevamEt.gif": "/static/media/DevamEt.24e8cd25.gif",
+    "static/media/Kategori.png": "/static/media/Kategori.be0ff9a4.png",
+    "static/media/MainIndex.png": "/static/media/MainIndex.1629d3da.png",
+    "static/media/MakeFish.gif": "/static/media/MakeFish.d197a5f3.gif",
+    "static/media/Prenses.gif": "/static/media/Prenses.e0e973ad.gif",
+    "static/media/ReklamsizKaynak.png": "/static/media/ReklamsizKaynak.78600626.png",
+    "static/media/Search.png": "/static/media/Search.90ee6254.png",
+    "static/media/Special.jpeg": "/static/media/Special.7d94a91c.jpeg",
+    "static/media/ZLokisdottir.gif": "/static/media/ZLokisdottir.786cb73b.gif",
+    "static/media/Zamion101.png": "/static/media/Zamion101.8bf6c0d9.png",
+    "static/media/animewho.png": "/static/media/animewho.d1e15cb6.png",
+    "static/media/overrides.scss": "/static/media/bg.b7f5f33c.jpg",
+    "static/media/header-image.png": "/static/media/header-image.c595a76f.png",
+    "static/media/İndirme.png": "/static/media/İndirme.61aeeb53.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0330c2bf.js",
+    "static/js/2.3946ee7c.chunk.js",
+    "static/css/main.44538b14.chunk.css",
+    "static/js/main.e357443a.chunk.js"
+  ]
+}
