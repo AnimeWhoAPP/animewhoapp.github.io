@@ -15,14 +15,14 @@ export default () => {
         },
 		        {
             title: "Kaldığın Yerden Devam Et",
-            description: "\"Elektrikler gitti, dersim başladı, ineceğim durağa geldim\"\n\nBunlar çok klişe bahaneler değil mi? \"Senin için\" bunu da düşündük, her ne işin olursa olsun istediğin zaman çık, geldiğinde kaldığın yerden rahatlıkla devam edebilirsin.",
+            description: "\"Elektrikler gitti, dersim başladı, ineceğim durağa geldim\"\n\nBunlar çok klişe bahaneler değil mi? Senin için bunu da düşündük, her ne işin olursa olsun istediğin zaman çık, geldiğinde kaldığın yerden rahatlıkla devam edebilirsin.",
             image: DevamEt,
 			duration: "0ms",
             disableAnimation: true
         },
         {
             title: "Özelleştirmeler",
-            description: "Bunlarla yetinmiyoruz, sürekli yen bir şeyler katarak geliştiriyoruz.\nTüm bunları yaparken de sizleri düşünüyoruz.\n\nYeni İndirme Kısmına Ait Görsel:",
+            description: "Bunlarla yetinmiyoruz, sürekli yeni bir şeyler katarak geliştiriyoruz.\nTüm bunları yaparken de sizleri düşünüyoruz.\n\nYeni İndirme Kısmına Ait Görsel:",
             image: Special,
         },
         {
