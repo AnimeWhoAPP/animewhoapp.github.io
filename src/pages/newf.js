@@ -8,7 +8,7 @@ export default () => {
     const FeatureList = [
         {
             title: "Listeni Oluştur",
-            description: "Hala izlediklerini kaydedebileceğin bir yer,\nunutmamak için ekleyebileceğin bir yer,\nkız arkadaşın sana geldiğinde beğendiğin anime ve mangaları gösterebileceğin bir yer.\n\n Her şeyi düşündük \"Listem\" sayesinde istediğin animeyi tek tuşla kaydedebilirsin.",
+            description: "Hala izlediklerini kaydedebileceğin bir yer,\nunutmamak için ekleyebileceğin bir yer,\nkız arkadaşın sana geldiğinde beğendiğin anime ve mangaları gösterebileceğin bir yer yok mu?\n\n Her şeyi düşündük \"Listem\" sayesinde istediğin animeyi tek tuşla kaydedebilirsin.",
             image: MainIndex
         },
         {
@@ -19,13 +19,13 @@ export default () => {
         },
         {
             title: "Reklamsız Kaynaklar",
-            description: "Tüm site ve uygulamalar 3. Parti sitelere \(Sibnet, Ok.ru, Mail.ru, Vidmoly...)\ yükleyip buradaki oynatıcılar sayesinde sizin izlemenizi sağlar fakat bu durum, oynatıcılarda fazla reklam olduğu için telefonunuzun ısınmasını, internet kotanızın fazla yemesine vb çeşitleri sorunlara yol açmaktadır. Bunun için reklamsız kaynakları geliştirdik. Bazı kaynakların reklamlarını aşarak kendi oynatıcımız içinde sizlere sunuyoruz, böylelikle daha hızlı ve telefonunuzu zorlanmadan izleme yapabilirsiniz.",
+            description: "Tüm site ve uygulamaların 3.parti sitelere yüklenip buradaki oynatıcılar aracılığıyla izlemenizi sağlar fakat bu durum, oynatıcılarda fazla reklam olduğu için telefonunuzun ısınmasını, internet kotanızın fazla yemesine vb çeşitleri sorunlara yol açmaktadır. Bunun için reklamsız kaynakları geliştirdik. Bazı kaynakların reklamlarını aşarak kendi oynatıcımız içinde sizlere sunuyoruz, böylelikle daha hızlı ve telefonunuzu zorlanmadan izleme yapabilirsiniz.",
             image: ReklamsizKaynak,
             duration: "2000ms"
         },
         {
             title: "İndirme Seçeneği",
-            description: "\"Archive Mi? Oda Ne\"\nÖzel olarak geliştirdiğimiz indirme sunucusudur. Diğer sitelerden reklamlı bağlantılara tıklayarak, çeşitli kısaltmalar geçmek zorunda değilsiniz artık. Tek tuşla istediğin animeyi istediğin zaman indirebilirsin. Sadece bununlada yetinmiyoruz, Archive sistemimizi beğenmezsen \"Google Drive, Cloud.ru, Yandex, Mega...\" yüklenen diğer kaynaklardanda indirebilirsin.",
+            description: "\"Archive Mi? Oda Ne\"\nÖzel olarak geliştirdiğimiz indirme sunucusudur. Diğer sitelerden reklamlı bağlantılara tıklayarak, çeşitli kısaltmalar geçmek zorunda değilsiniz artık. Tek tuşla istediğin animeyi istediğin zaman indirebilirsin. Sadece bununla da yetinmiyoruz, Archive sistemimizi beğenmezsen \"Google Drive, Cloud.ru, Yandex, Mega...\" yüklenen diğer kaynaklardan da indirebilirsin.",
             image: İndirme,
             duration: "0ms",
             disableAnimation: true
