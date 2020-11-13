@@ -15,7 +15,7 @@ export default () => {
         },
 		        {
             title: "Kaldığın Yerden Devam Et",
-            description: "\"Elektirikler gitti, dersim başladı, ineceğim durağa geldim\"\n\nBunlar çok klişe bahaneler değil mi? senin için bunuda düşündük, her ne işin olursa olsun istediğin zaman çık, geldiğinde kaldığın yerden rahatlıkla devam edebilirsin.",
+            description: "\"Elektirikler gitti, dersim başladı, ineceğim durağa geldim\"\n\nBunlar çok klişe bahaneler değil mi? senin için bunu da düşündük, her ne işin olursa olsun istediğin zaman çık, geldiğinde kaldığın yerden rahatlıkla devam edebilirsin.",
             image: DevamEt,
 			duration: "0ms",
             disableAnimation: true
