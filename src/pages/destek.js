@@ -9,28 +9,64 @@ export default () => {
     const PanelList = [
         {
             image: Destek,
-            title: "Erken Erişime Katıl",
-            description: "\"Erken Erşime\"\nkatılarak uygulamayı 3 ay reklamsız kullanabilirsin.\nAynı zamanda projelerimizin devamı için destek olabilirsin.",
-			price: 20,
+            title: "Aylık Ödeme",
+            description: "Aylık 10₺ karşılığında reklamsız kullanabilir ve diğer özel özelliklerden faydalanabilirsiniz.",
+			price: 10,
             buttons: [
                 {
-                    title: "Hemen Katıl",
-                    link: "https://shop.animewho.com/donate/index.php?amount=20"
+                    title: "Hemen Öde",
+                    link: "https://shop.animewho.com/donate/index.php?amount=10"
                 }
             ]
         },
 		{
             image: Destek2,
-            title: "Diğer Ödeme Yöntemleri",
-            description: "Diğer ödeme yöntemleriyle bize destek olabilirsiniz",
-			price: 20,
+            title: "4 Aylık Ödeme",
+            description: "30₺ karşılığında reklamsız kullanabilir ve diğer özel özelliklerden faydalanabilirsiniz.",
+			price: 30,
             buttons: [
                 {
-                    title: "Hemen Katıl",
-                    link: "https://animewho.com/destek-ol"
+                    title: "Hemen Öde",
+                    link: "https://shop.animewho.com/donate/index.php?amount=30"
                 }
             ]
         },
+		{
+            image: Destek3,
+            title: "8 Aylık Ödeme",
+            description: "60₺ karşılığında reklamsız kullanabilir ve diğer özel özelliklerden faydalanabilirsiniz.",
+			price: 60,
+            buttons: [
+                {
+                    title: "Hemen Öde",
+                    link: "https://shop.animewho.com/donate/index.php?amount=60"
+                }
+            ]
+        },
+		{
+            image: Destek4,
+            title: "12 Aylık Ödeme",
+            description: "100₺ karşılığında reklamsız kullanabilir ve diğer özel özelliklerden faydalanabilirsiniz.",
+			price: 100,
+            buttons: [
+                {
+                    title: "Hemen Öde",
+                    link: "https://shop.animewho.com/donate/index.php?amount=100"
+                }
+            ]
+        },
+		{
+            image: Destek5,
+            title: "İletişim",
+            description: "Herhangi bir teknik sorun yaşanması halinde Discord adresimize gelip bizlerden ücretsiz bir şekilde yardım alabilirsiniz.",
+			price: 0,
+            buttons: [
+                {
+                    title: "Yardım Al",
+                    link: "https://discord.com/invite/kXkg3pY"
+                }
+            ]
+        }
     ]
 
     return (

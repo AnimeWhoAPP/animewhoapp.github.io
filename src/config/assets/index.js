@@ -12,6 +12,9 @@ import Zamion101 from '../../assets/images/panels/Zamion101.png'
 import ZLokisdottir from '../../assets/images/panels/ZLokisdottir.gif'
 import Destek from '../../assets/images/panels/Destek.gif'
 import Destek2 from '../../assets/images/panels/Destek2.gif'
+import Destek2 from '../../assets/images/panels/Destek3.gif'
+import Destek2 from '../../assets/images/panels/Destek4.gif'
+import Destek2 from '../../assets/images/panels/Destek5.gif'
 
 import MainIndex from '../../assets/images/features/MainIndex.png'
 import Ayarlar from '../../assets/images/features/Ayarlar.png'
@@ -22,4 +25,4 @@ import Search from '../../assets/images/features/Search.png'
 import Special from '../../assets/images/features/Special.jpeg'
 import DevamEt from '../../assets/images/features/DevamEt.gif'
 
-export { HeaderImage, HeaderLogo, MakeFish, Prenses, Zamion101, MainIndex, Ayarlar, Kategori, İndirme, Special, ReklamsizKaynak, Search, DevamEt, ZLokisdottir, Destek, Destek2, Technologies, AnimeWhoLogo, PlayStoreoLogo }
+export { HeaderImage, HeaderLogo, MakeFish, Prenses, Zamion101, MainIndex, Ayarlar, Kategori, İndirme, Special, ReklamsizKaynak, Search, DevamEt, ZLokisdottir, Destek, Destek2, Destek3, Destek4, Destek5, Technologies, AnimeWhoLogo, PlayStoreoLogo }
