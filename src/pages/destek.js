@@ -61,7 +61,7 @@ export default () => {
 		{
             image: Destek5,
             title: "İletişim",
-            description: "Herhangi bir teknik sorun yaşanması halinde Discord adresimize gelip bizlerden ücretsiz bir şekilde yardım alabilirsiniz.",
+            description: "Teknik sorun oluşması halinde Discord adresimizden ücretsiz bir şekilde yardım alabilirsiniz.",
 			price: 0,
             buttons: [
                 {
