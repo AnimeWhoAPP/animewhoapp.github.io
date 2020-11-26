@@ -90,7 +90,7 @@ export default function CustomizedTimeline() {
             <Typography variant="h6" component="h1">
               Ödeme Sistemi
             </Typography>
-            <Typography>Bağış / Ödeme sistemi eklendi</Typography>
+            <Typography>Erken Erişim/Premium sürüm sisteme eklendi</Typography>
           </Paper>
         </TimelineContent>
       </TimelineItem>
