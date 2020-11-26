@@ -3,6 +3,9 @@ import { Box } from '@material-ui/core'
 
 import { Destek } from '../config/assets/index'
 import { Destek2 } from '../config/assets/index'
+import { Destek3 } from '../config/assets/index'
+import { Destek4 } from '../config/assets/index'
+import { Destek5 } from '../config/assets/index'
 import { PlansPanel } from '../components/destek/index'
 
 export default () => {
