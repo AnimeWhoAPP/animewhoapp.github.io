@@ -87,7 +87,7 @@ export default () => {
 			<Grid {...useGridProps}>
                 <Box {...BoxProps} bgcolor="#121212" boxShadow={0}>
 				<Typography style={{textAlign: "center", color: "white" }} className={classes.Titles} variant="h3">
-                    Destek Ol
+                    Premium Reklamsız Sürüm
                 </Typography>
 				<br />
                     <Destek />

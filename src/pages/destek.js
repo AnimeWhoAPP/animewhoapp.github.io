@@ -14,7 +14,7 @@ export default () => {
 			price: 20,
             buttons: [
                 {
-                    title: "Destek Ol",
+                    title: "Hemen Katıl",
                     link: "https://shop.animewho.com/donate/index.php?amount=20"
                 }
             ]
@@ -26,7 +26,7 @@ export default () => {
 			price: 20,
             buttons: [
                 {
-                    title: "Destek Ol",
+                    title: "Hemen Katıl",
                     link: "https://animewho.com/destek-ol"
                 }
             ]
