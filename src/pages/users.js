@@ -15,7 +15,7 @@ export default () => {
 		{
             title: "Play Store",
             logo: PlayStoreoLogo,
-            link: "https://animewho.com/"
+            link: "https://play.google.com/store/apps/details?id=com.animewho.mobil"
         }
     ]
 

@@ -49,13 +49,8 @@ export default () => {
         <>
             <Grid container className={classes.Grid} justify="center" textAlign="center">
 				<Grid item xs={0} className={classes.Panel}>				
-				    <a href="https://shop.animewho.com/yardim/" rel="noopener noreferrer" target="_blank" className={classes.Copyright}>
-                        <Typography variant="h6">Yardım</Typography>
-                    </a>
-					<a href="https://shop.animewho.com/yardim/" rel="noopener noreferrer" target="_blank" className={classes.Copyright}>
-                        <Typography variant="h6">Yardım</Typography>
-                    </a>
-				<center>
+				    <center>
+					<a href="https://shop.animewho.com/yardim/" rel="noopener noreferrer" target="_blank" className={classes.Copyright}> <Typography variant="h6">Yardım</Typography> </a> <a href="https://shop.animewho.com/iletisim/" rel="noopener noreferrer" target="_blank" className={classes.Copyright}><Typography variant="h6">İletişim</Typography></a>
 					<a href="https://github.com/Hime-Dev" rel="noopener noreferrer" target="_blank" className={classes.Copyright}>
                         <Typography variant="h6">prenses &copy; {(new Date()).getFullYear()}</Typography>
                     </a>
