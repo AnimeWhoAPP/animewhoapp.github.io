@@ -18,7 +18,7 @@ export default () => {
             buttons: [
                 {
                     title: "Hemen Öde",
-                    link: "https://shop.animewho.com/donate/index.php?amount=10"
+                    link: "https://mobil.animewho.com/donate/index.php?amount=10"
                 }
             ]
         },
@@ -30,7 +30,7 @@ export default () => {
             buttons: [
                 {
                     title: "Hemen Öde",
-                    link: "https://shop.animewho.com/donate/index.php?amount=30"
+                    link: "https://mobil.animewho.com/donate/index.php?amount=30"
                 }
             ]
         },
@@ -42,7 +42,7 @@ export default () => {
             buttons: [
                 {
                     title: "Hemen Öde",
-                    link: "https://shop.animewho.com/donate/index.php?amount=60"
+                    link: "https://mobil.animewho.com/donate/index.php?amount=60"
                 }
             ]
         },
@@ -54,7 +54,7 @@ export default () => {
             buttons: [
                 {
                     title: "Hemen Öde",
-                    link: "https://shop.animewho.com/donate/index.php?amount=100"
+                    link: "https://mobil.animewho.com/donate/index.php?amount=100"
                 }
             ]
         },
